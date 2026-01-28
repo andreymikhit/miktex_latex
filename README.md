@@ -1,4 +1,4 @@
-# TeX / MiKTeX / TeXstudio Editor
+# TeX / MiKTeX / TeXstudio
 ### 1. Install in Windows MiKTex or TeX
 - TeX - MiKtex - Latex - TeXstudio Wiki [https://ru.wikibooks.org/wiki/LaTeX/Установка_LaTeX](https://ru.wikibooks.org/wiki/LaTeX/Установка_LaTeX)
 - Download and install MikTeX from [https://miktex.org/download](https://miktex.org/download)
