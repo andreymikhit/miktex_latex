@@ -1,18 +1,18 @@
 # TeX / LaTeX / TeXstudio
 
 ### 1. Install in Windows TeX or MiKTex:
-- Download and install TeX Live from [https://www.tug.org/texlive/](https://www.tug.org/texlive/)
+- **Download** and install TeX Live from [https://www.tug.org/texlive/](https://www.tug.org/texlive/)
 - Concise instructions, per platform:
   - [ ] install on Unix/GNU/Linux
   - [ ] install on Windows -> install-tl-windows.exe
   - [ ] install on MacOS: MacTeX distribution
 - Choose **Ways to acquire TeX Live**:
   - [ ] download,
-  - [x] an ISO image or via torrent,
+  - [x] **an ISO image or via torrent,**
   - [ ] on DVD,
   - [ ] other methods.
 - **Acquiring TeX Live as an ISO image**
-  - [x] download from a nearby CTAN mirror; or
+  - [x] **download from a nearby CTAN mirror; or**
   - [ ] manually choose from the mirror list; or
   - [ ] retrieve it via the torrent network (info below)
 - Index of /tex-archive/systems/texlive/Images/
